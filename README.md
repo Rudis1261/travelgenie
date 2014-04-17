@@ -53,3 +53,6 @@ Comments and questions
 
 
 Wnat to know more, and don't quite understand what the hell we did. Feel free to contact me iam@thatguy.co.za
+
+
+[Brocure PDF](https://github.com/drpain/travelgenie/raw/master/Brocure.pdf)
